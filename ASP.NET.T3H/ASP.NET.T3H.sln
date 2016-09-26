@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai4_25Sep", "Bai4_25Sep", "{79914609-8880-43F5-A22A-806608799D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiQuangTrung", "BuiQuangTrung\BuiQuangTrung.csproj", "{04DF7D8D-CFD8-4B35-B6D5-0DE0FE7B3DA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiQuangTrung_25Sep", "BuiQuangTrung\BuiQuangTrung_25Sep.csproj", "{04DF7D8D-CFD8-4B35-B6D5-0DE0FE7B3DA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
