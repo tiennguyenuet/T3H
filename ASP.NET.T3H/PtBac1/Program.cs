@@ -23,6 +23,8 @@ namespace PtBac1
                 float result = -b / a;
                 Console.WriteLine("Phuong trinh co nghiem la x=" + result);
                 result.ToString();
+
+
             }
             Console.ReadLine();
         }
