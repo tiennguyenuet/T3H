@@ -24,7 +24,6 @@ namespace PtBac1
                 Console.WriteLine("Phuong trinh co nghiem la x=" + result);
                 result.ToString();
 
-
             }
             Console.ReadLine();
         }
