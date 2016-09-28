@@ -10,6 +10,7 @@ namespace Duy_Bai1_28Sep
     {
         static void Main(string[] args)
         {
+            //Hehehe
         }
     }
 }
